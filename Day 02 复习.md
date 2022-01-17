@@ -1,6 +1,6 @@
 ## Day 02 复习内容
 
-### 一、JavaSE  部分
+### 一、Java SE  部分
 
 1. "=="和equals方法区别
 
